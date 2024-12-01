@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\Hp\Downloads\opengl\Include\glad\glad.h(32,9):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(471,36): warning C4101: 'scaleMatrix': unreferenced local variable
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(738,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(756,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(769,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(774,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(903,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(908,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(913,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(918,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(1295,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\main.cpp(1388,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment_3.vcxproj -> C:\Users\Hp\source\repos\Computer-Graphics-3D-Classroom-OpenGL-3.3-CPP\x64\Debug\Assignment_3.exe
